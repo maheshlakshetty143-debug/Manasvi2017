@@ -1,0 +1,6 @@
+{
+  "name": "Pocket World // Terrarium Planet",
+  "description": "A cozy miniature world builder inside a clear glass terrarium orb on a walnut stand, with faceted terrain, villagers, sheep, day-night cycles, and interactive creation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
